@@ -564,6 +564,10 @@ But don't forget to do coding problems from above while you learn!
 - [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
 - [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [X] [Big-O Notation - For Coding Interviews (video)](https://youtu.be/BgLTDT03QtU)
+- [X] [Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7) (video)](https://youtu.be/D6xkbGLQesk)
+- [ ] [Big O Notation - Full Course (video)](https://youtu.be/Mo4vesaut8g)
+- [ ] [Time and Space Complexity COMPLETE Tutorial - What is Big O? (video)](https://youtu.be/mV3wrLBbuuE)
 - [ ] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
